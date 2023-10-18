@@ -1,0 +1,46 @@
+body{/*corpo da página*/
+  box-sizing: border-box; /*tamanho da borda*/
+  font-family: Arial, Helvetica, sans-serif; /*tipo de fonte*/
+}
+
+body {
+  margin: 0; /*margem*/
+  font-family: Arial, Helvetica, sans-serif; /*Tipo de Fonte*/
+  background-color: azure; /*cor de fundo da página azul*/
+}
+
+.topnav { /*barra de navegação*/
+  overflow: hidden; /*barra de navegação escondida*/
+  background-color: #333; /*cor de fundo da barra*/
+}
+
+/* Style the topnav links *  /*links de navegação do servidor*/
+.topnav a {
+  float: left; /*flutuação a esquerda*/
+  display: block; /*exibição bloco*/
+  color: #f2f2f2; /*cor*/
+  text-align: center; /*texto centralizado*/
+  padding: 14px 16px; /*tamanho do preenchimento*/
+  text-decoration: none; /*decoração do texto nenhuma*/
+}
+
+/* Change color on hover */ /* navegação superior mudar de cor ao passar o mouse*/
+.topnav a:hover {
+  background-color: #addd; /*cor de fundo da página*/
+  color: black; /*cor preta/
+}
+
+/* Style the content */ /*o conteúdo*/
+.content {
+  background-color: #ddd; /*cor de fundo da página*/
+  padding: 10px; /*tamanho do preenchimento*/
+  height: auto; /* Should be removed. Only for demonstration */ /* tamanho da altura/
+}/*height: 200px*/
+
+
+/* Style the footer */ /*rodapé*/
+.footer {
+  background-color: #addd;
+  padding: 03px;
+  text-align: center;
+}
