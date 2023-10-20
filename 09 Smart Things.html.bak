@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Things</title>
+</head>
+<link rel="stylesheet" href="font.css">
+<body>
+
+<div class="topnav">
+  <a href="atividade00-proz.html">Atividade_01</a>
+  <a href="atividade01-proz.html">Atividade_02</a>
+  <a href="atividade-proz.html">Atividade_03</a>
+  <a href="Atividade Chatbox-proz.html">Atividade_04</a>
+  <a href="Atividade Big Data-proz.html">Atividade_05</a>
+  <a href="Atividade Internet of things-proz.html">Atividade_06</a>
+  <a href="Atividade Smartthings-proz.html">Atividade_07</a>
+  <a href="Atividade Smart City-proz.html">Atividade_08</a>
+  <a href="Atividade Realidade Aumentada e Virtual-proz.html">Atividade_09</a>
+  
+</div>
+
+    <div class="content">
+	
+	<h1 style="text-align:center;">SmartThings</h1>
+	<center>
+	<img src="C:\Users\fabia\OneDrive\Documentos\Curso Proz\Páginas e imagens Proz\Imagens proz\imagem smartthing.jpg" alt="Girl in a jacket" width="300" height="300"> 
+
+
+<h3 style="text-align:left;"> 
+O crescimento da indústria impulsiona o avanço das tcnologias eletrônicas, fato este ilustrado pela adoção massiva dos smartthings em dispositivos eletrônicos nos diversos itens produzidos, 
+como automóveis, eletrodomésticos equipamentos de comunicação pessoal, dentre outros. Atualmente o termo sistema embarcado ganhou notoriedade com o surgimento das tecnologias móveis 
+e principalmente a convergência dessas tecnologias as plataformas de prototipação possibilitando o desenvolvimento do conceito em torno da Internet das Coisas.
+Para aprofundamento no estudo de smartthingsé necessário ter um conhecimento em hardware, software e em interface homem máquina. A diferença entre o computador e o sistema embarcado é a 
+quantidade de execução de tarefas, os computadores funcionam com sistemas operacionais e softwares com diversas aplicações, e o sistema embarcado é dedicado para executar uma tarefa pré-
+determinada.
+		
+
+</div>
+	
+ 
+
+<div class="footer" >
+  <p>Site Criado para Avaliacao neste dia 10-10-2023</p>
+</div>
+	
+</body>
+</html>
